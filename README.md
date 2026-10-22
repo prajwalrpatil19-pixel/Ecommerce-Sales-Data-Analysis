@@ -110,6 +110,8 @@ The dataset is used for educational and analytical purposes. Please check the so
 B.Tech Electronics and Telecommunication Engineering 2025 graduate
 
 GitHub: https://github.com/prajwalrpatil19-pixel
+Leetcode: https://leetcode.com/u/prajwalrpatil8/
+Hackerank: https://www.hackerrank.com/profile/prajwalrpatil19
 
 LinkedIn: https://linkedin.com/in/prajwal-patil-9b3b70241
 
